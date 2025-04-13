@@ -1,1 +1,1 @@
-# UserManagementAPI
+This repository contains a User Management API developed with ASP.NET Core. It provides CRUD operations for managing user data (Create, Read, Update, Delete) through dedicated API endpoints. The project includes input validation to ensure valid user data and integrates middleware for logging and authentication to enhance security and functionality.
